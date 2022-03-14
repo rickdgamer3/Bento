@@ -124,3 +124,6 @@ const CONFIG = {
         link: 'https://web.telegram.org/',
       },
     ]
+  },
+ ],
+};
